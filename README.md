@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Shedrack Okunda.
-- 👀 A Front-End Web developer.
+- 👀 I'm a Front-End Web developer.
 - ⚛️ React.js
 - 🚀 Am currently learning Node.js 🟢
-- 💞️ I’m looking forward to collaborate with both frontend and backend developers for fullstack web applications.
+- 💞️ I’m looking forward to collaborate with both frontend and backend developers for development to fully functional, scalable and dynamic fullstack web applications.
 - 📫 How to reach me: okundashedrack@gmail.com
 
 <!---
