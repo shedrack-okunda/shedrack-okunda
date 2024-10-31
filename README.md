@@ -1,3 +1,6 @@
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Shedrack&label=Profile%20Views&color=6&icon=2&pretty=false" />
+</a>
 - 👋 Hi, I’m Shedrack Okunda.
 - 👀 I'm a Front-End Web developer.
 - ⚛️ React.js
