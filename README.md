@@ -3,10 +3,12 @@
 </a>
 
 - 👋 Hi, I’m Shedrack Okunda.
-- 👀 I'm a Front-End Web developer.
+- 👀 I'm a MERN Stack Web developer.
 - ⚛️ React.js
-- 🚀 Am currently learning Node.js 🟢
-- 💞️ I’m looking forward to collaborate with both frontend and backend developers for development to fully functional, scalable and dynamic fullstack web applications.
+- 🚀 Node.js 🟢
+- 🚀 Express.js
+- 🗄 Am currently learning MongoDB 🟢
+- 💞️ I’m looking forward to collaborate with both frontend and backend developers.
 - 📫 How to reach me: okundashedrack@gmail.com
 
 <!---
