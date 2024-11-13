@@ -3,11 +3,12 @@
 </a>
 
 - 👋 Hi, I’m Shedrack Okunda.
-- 👀 I'm a MERN Stack Web developer.
+- 👀 A MERN Stack Web developer.
 - ⚛️ React.js
 - 🚀 Node.js 🟢
 - 🚀 Express.js
-- 🗄 Am currently learning MongoDB 🟢
+- 🗄 MongoDB 🟢
+- 💻 Am currently working on Full-Stack application with MERN
 - 💞️ I’m looking forward to collaborate with both frontend and backend developers.
 - 📫 How to reach me: okundashedrack@gmail.com
 
