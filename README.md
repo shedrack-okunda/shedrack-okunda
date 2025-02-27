@@ -1,10 +1,9 @@
 Welcome! 
 
 - 👋 Hi, I’m Shedrack Okunda.
-- 👀 I'm an enthusiast Software Developer with a love for building innivative     
-      solutions.
+- 👀 A Software Developer with an enthusiast love for building software solutions.
 - 🌱 I'm currently learning...
-- 👯 I’m looking to collaborate on MERN Projects.
+- 👯 I’m looking forward to collaborate on MERN Projects.
 - 💬  Ask me about Node.js.
 - 📫 How to reach me: okundashedrack@gmail.com
 
