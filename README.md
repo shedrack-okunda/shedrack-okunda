@@ -1,9 +1,9 @@
 Welcome! 
 
 - 👋 Hi, I’m Shedrack Okunda.
-- 👀 A Software Developer with an enthusiast love for building software solutions.
+- 👀 I'm a passionate Software Developer with a keen interest in building scalable web applications. 
 - 🌱 I'm currently learning...
-- 👯 I’m looking forward to collaborate on MERN Projects.
+- 👯 I’m looking forward to collaborating on MERN Projects.
 - 💬  Ask me about Node.js.
 - 📫 How to reach me: okundashedrack@gmail.com
 
@@ -30,8 +30,16 @@ Welcome!
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
 
 
+## 📊 Languages Used Most
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shedrack-okunda&layout=compact&theme=radical)
+
+
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=shedrack-okunda&show_icons=true&theme=radical)
+
+
+## 📈 Contribution Graph
+![Your Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=shedrack-okunda&theme=radical)
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shedrack-okunda)
