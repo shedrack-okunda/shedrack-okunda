@@ -7,7 +7,6 @@ Welcome!
 - 💬  Ask me about Node.js.
 - 📫 How to reach me: okundashedrack@gmail.com
 
-
  ## 🛠️ Tech Stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -29,17 +28,11 @@ Welcome!
 ![C](https://img.shields.io/badge/C-A8B400?style=flat-square&logo=c&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
 
-
 ## 📊 Languages Used Most
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shedrack-okunda&layout=compact&theme=radical)
 
-
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=shedrack-okunda&show_icons=true&theme=radical)
-
-
-## 📈 Contribution Graph
-![Your Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=shedrack-okunda&theme=radical)
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shedrack-okunda)
