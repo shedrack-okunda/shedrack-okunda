@@ -27,6 +27,9 @@ Welcome!
 ![Terminal](https://img.shields.io/badge/Terminal-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B400?style=flat-square&logo=c&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ## 📊 Languages Used Most
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shedrack-okunda&layout=compact&theme=radical)
