@@ -1,7 +1,7 @@
 Welcome! 
 
 - 👋 Hi, I’m Shedrack Okunda.
-- 👀 I'm a passionate Software Developer with a keen interest in building scalable web applications. 
+- 👀 I'm a passionate Software Developer interested in building scalable web applications. 
 - 🌱 I'm currently learning...
 - 👯 I’m looking forward to collaborating on MERN Projects.
 - 💬  Ask me about Node.js.
