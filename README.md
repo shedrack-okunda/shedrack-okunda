@@ -1,4 +1,4 @@
-# 🚀 Shedrack Okunda | Full-Stack Developer
+# 🚀 Shedrack Okunda | Full-Stack Developer (MERN)
 
 <div align="center">
   
@@ -29,7 +29,7 @@ const shedrack = {
   
   🔭 **Currently Working On:** Building innovative web applications with modern tech stack
   
-  🌱 **Learning:** Advanced React Patterns, GraphQL, Docker, and Cloud Technologies
+  🌱 **Learning:** Advanced React Patterns, AI and Cloud Technologies
   
   👯 **Open to Collaborate:** MERN Projects, Open Source Contributions
   
@@ -41,7 +41,7 @@ const shedrack = {
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -51,6 +51,8 @@ const shedrack = {
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
 
 ### ⚙️ Backend Technologies
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -101,16 +103,6 @@ const shedrack = {
 
 ---
 
-## 🏆 GitHub Achievements
-
-<div align="center">
-  
-  [![trophy](https://github-profile-trophy.vercel.app/?username=shedrack-okunda&theme=radical&no-frame=false&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-  
-</div>
-
----
-
 ## 🎯 Current Goals
 
 ```yaml
@@ -119,7 +111,6 @@ const shedrack = {
   - Contribute to 10+ open source projects
   - Build a SaaS application
   - Learn Docker and Kubernetes
-  - Master GraphQL and Apollo
   - Explore Web3 technologies
 ```
 
