@@ -89,18 +89,6 @@ const shedrack = {
   
 </div>
 
-<div align="center">
-  
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shedrack-okunda&theme=radical)](https://git.io/streak-stats)
-  
-</div>
-
-<div align="center">
-  
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shedrack-okunda&theme=react-dark&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF&hide_border=true)
-  
-</div>
-
 ---
 
 ## 🎯 Current Goals
