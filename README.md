@@ -2,9 +2,9 @@
 
 <div align="center">
   
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Welcome%20to%20my%20Digital%20Universe&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Building%20the%20Future,%20One%20Line%20of%20Code%20at%20a%20Time&descAlignY=51&descAlign=62)
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Welcome%20to%20my%20Digital%20Universe&fontSize=40&animation=fadeIn&fontAlignY=38&desc=Building%20the%20Future,%20One%20Line%20of%20Code%20at%20a%20Time&descAlignY=51&descAlign=62)
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Full+Stack+MERN+Developer;Always+Learning+New+Tech;Building+Scalable+Applications)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&width=400&lines=Full+Stack+MERN+Developer;Always+Learning+New+Tech;Building+Scalable+Applications)](https://git.io/typing-svg)
   
 </div>
 
