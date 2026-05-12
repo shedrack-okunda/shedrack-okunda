@@ -2,9 +2,9 @@
 
 <div align="center">
   
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Welcome%20to%20my%20Digital%20Universe&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Building%20the%20Future,%20One%20Line%20of%20Code%20at%20a%20Time&descAlignY=51&descAlign=62)
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Welcome%20to%20my%20Digital%20Universe&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Building%20the%20Future,%20One%20Line%20of%20Code%20at%20a%20Time&descAlignY=51&descAlign=62)
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Always+Learning+New+Tech;Building+Scalable+Applications)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Full+Stack+MERN+Developer;Always+Learning+New+Tech;Building+Scalable+Applications)](https://git.io/typing-svg)
   
 </div>
 
@@ -12,30 +12,11 @@
 
 ## 🌟 About Me
 
-```javascript
-const shedrack = {
-    name: "Shedrack Okunda",
-    role: "Full-Stack Developer",
-    location: "Kenya 🇰🇪",
-    passion: "Building scalable web applications",
-    currentFocus: "MERN Stack Development",
-    expertise: ["Node.js", "React", "MongoDB", "Express"],
-    motto: "Code with purpose, build with passion",
-    funFact: "I debug with console.log() and I'm not ashamed! 😄"
-};
-```
-
 <div align="center">
   
-  🔭 **Currently Working On:** Building innovative web applications with modern tech stack
-  
-  🌱 **Learning:** Advanced React Patterns, AI and Cloud Technologies
-  
-  👯 **Open to Collaborate:** MERN Projects, Open Source Contributions
-  
-  💬 **Ask Me About:** Node.js, React, JavaScript, Web Development Best Practices
-  
-  📫 **Reach Me:** [okundashedrack@gmail.com](mailto:okundashedrack@gmail.com)
+  I am a Full-Stack MERN Developer focused on building responsive, scalable, and user-centered web applications. I enjoy working across both frontend and backend systems, designing APIs, and creating clean UI experiences.
+
+Currently, I am expanding into mobile development with React Native and improving my understanding of system design and backend architecture. I am actively looking for internship and junior developer opportunities where I can contribute to real-world products and grow as a software engineer.
   
 </div>
 
@@ -46,19 +27,15 @@ const shedrack = {
 <div align="center">
 
 ### 🎨 Frontend Technologies
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 
 ### ⚙️ Backend Technologies
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B400?style=for-the-badge&logo=c&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=api&logoColor=white)
 
 ### 🗃️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -66,11 +43,9 @@ const shedrack = {
 
 ### 🔧 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### 💻 Operating Systems
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -94,12 +69,11 @@ const shedrack = {
 ## 🎯 Current Goals
 
 ```yaml
-2025_objectives:
-  - Complete advanced React patterns course
-  - Contribute to 10+ open source projects
-  - Build a SaaS application
-  - Learn Docker and Kubernetes
-  - Explore Web3 technologies
+  - Strengthen full-stack development skills (React + Node.js)
+  - Build production-ready portfolio projects
+  - Contribute to open-source projects
+  - Learn React Native for mobile development
+  - Improve system design fundamentals
 ```
 
 ---
@@ -112,25 +86,6 @@ const shedrack = {
   [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sheddyke_)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:okundashedrack@gmail.com)
   [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://shedrack-okunda.vercel.app/)
-  
-</div>
-
----
-
-## 💡 Fun Fact
-
-<div align="center">
-  
-  ```
-  while(alive) {
-      eat();
-      sleep();
-      code();
-      repeat();
-  }
-  ```
-  
-  *"The best code is written when you're passionate about what you're building!"*
   
 </div>
 
@@ -149,9 +104,3 @@ const shedrack = {
 </div>
 
 ---
-
-<div align="center">
-  
-  **"Code is like humor. When you have to explain it, it's bad."** - Cory House
-  
-</div>
