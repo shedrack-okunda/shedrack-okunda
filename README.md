@@ -1,22 +1,24 @@
-# 🚀 Shedrack Okunda | Full-Stack Developer (MERN)
-
 <div align="center">
-  
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Welcome%20to%20my%20Digital%20Universe&fontSize=40&animation=fadeIn&fontAlignY=38&desc=Building%20the%20Future,%20One%20Line%20of%20Code%20at%20a%20Time&descAlignY=51&descAlign=62)
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&width=400&lines=Full+Stack+MERN+Developer;Always+Learning+New+Tech;Building+Scalable+Applications)](https://git.io/typing-svg)
-  
+
+# Hi 👋, I'm **Shedrack Okunda**
+
+ # **Full-Stack Developer** | Building Production-Ready Solutions
+
 </div>
 
----
+  ---
 
 ## 🌟 About Me
-
-<div align="center">
   
-  I am a Full-Stack MERN Developer focused on building responsive, scalable, and user-centered web applications. I enjoy working across both frontend and backend systems, designing APIs, and creating clean UI experiences.
+ <div>
 
-Currently, I am expanding into mobile development with React Native and improving my understanding of system design and backend architecture. I am actively looking for internship and junior developer opportunities where I can contribute to real-world products and grow as a software engineer.
+🚀 Full-Stack **MERN** Developer focused on building responsive, scalable, and user-centered web applications.
+
+💻 I enjoy working across both frontend and backend systems, designing APIs, and creating clean UI experiences.
+
+📱 Currently expanding into mobile development with React Native and improving my understanding of system design and backend architecture.
+
+🌱 Actively looking for opportunities where I can contribute to real-world products and grow as a software engineer.
   
 </div>
 
@@ -87,8 +89,6 @@ Currently, I am expanding into mobile development with React Native and improvin
   ![Profile Views](https://komarev.com/ghpvc/?username=shedrack-okunda&color=brightgreen&style=flat-square)
   ![Followers](https://img.shields.io/github/followers/shedrack-okunda?style=social)
   ![Stars](https://img.shields.io/github/stars/shedrack-okunda?style=social)
-  
-  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=footer&text=Let's%20Build%20Something%20Amazing%20Together!&fontSize=24&animation=fadeIn&fontAlignY=65)
   
 </div>
 
